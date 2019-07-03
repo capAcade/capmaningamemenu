@@ -1,6 +1,6 @@
 {
   "name": "capmaningamemenu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is the ingame menu for the capman games",
   "main": "dist/index.js",
   "scripts": {
