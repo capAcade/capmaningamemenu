@@ -44,9 +44,9 @@ export default class GameMenu {
     init() {
         this.game.renderer.renderSession.roundPixels = true;
         this.keys = this.game.input.keyboard.addKeys({
-            down: Phaser.KeyCode.DOWN,
-            up: Phaser.KeyCode.UP,
-            fire: Phaser.KeyCode.CONTROL
+            down: Phaser.KeyCode.S,
+            up: Phaser.KeyCode.W,
+            fire: Phaser.KeyCode.U
         });
     }
     create() {
